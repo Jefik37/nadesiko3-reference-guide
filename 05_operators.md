@@ -31,16 +31,21 @@
 =  !=  <  >  <=  >=
 
 # Japanese style
-等しい (equal)
-異なる (not equal)
+AがB以上 (greater than or equal to)
+AがB以下 (less than or equal to)
+AがB超 (greater than)
+AがB未満 (less than)
+AがBと等しい (equal)
+AがBと等しく無い (not equal)
 ```
 
 ### Logical
 
 ```nadesiko
-かつ (AND)
-または (OR)
-でない (NOT)
+ &&  ||  !
 
-# Also: &&  ||  !
+# Japanese style
+論理AND(A, B) (AND)
+論理OR(A, B) (OR)
+論理NOT(V) (NOT)
 ```
