@@ -46,4 +46,4 @@ Also: && || !
 
 ## Useful links
 
-* ttps://nadesi.com/v3/doc/index.php?plugin_system%2F四則演算
+* https://nadesi.com/v3/doc/index.php?plugin_system%2F四則演算
