@@ -2,17 +2,15 @@
 
 ### Arithmetic
 
-```nadesiko
-# Mathematical operators
-+ - * / % ^
-
-# Japanese style
-足す (add)
-引く (subtract)
-掛ける (multiply)
-割る (divide)
-余り (modulo)
-```
+| Japanese Style               | Operator | Example                  |
+|-------------------------------|---------|-------------------------|
+| A(に/と)Bを足す               | A+B     | 3 + 5を表示              |
+| AからBを引く                  | A-B     | 10 - 5を表示             |
+| A(に/と)Bを掛ける             | A*B     | 2 * 3を表示              |
+| AをBで割る                   | A/B     | 10 / 5を表示             |
+| A(に/と)Bを余り               | A%B     | 10 % 3を表示             |
+| A^Bでべき乗                   | A^B     | (2 ^ 3)を表示 #→8       |
+| A&Bで文字列を連結             | A&B     | (3 & 5)を表示 #→35      |
 
 **Important Change in v3.7.3**: The 足す command now performs numeric addition. For string concatenation, use 連結.
 
@@ -27,25 +25,21 @@
 
 ### Comparison
 
-```nadesiko
-=  !=  <  >  <=  >=
-
-# Japanese style
-AがB以上 (greater than or equal to)
-AがB以下 (less than or equal to)
-AがB超 (greater than)
-AがB未満 (less than)
-AがBと等しい (equal)
-AがBと等しく無い (not equal)
-```
+| Japanese Style               | Operator | Example                  |
+|-------------------------------|---------|-------------------------|
+| AがBと等しい                 | A==B    | AがBと等しいを表示      |
+| AがBと等しく無い             | A!=B    | AがBと等しく無いを表示  |
+| AがB未満                     | A<B     | AがB未満を表示          |
+| AがB超                       | A>B     | AがB超を表示            |
+| AがB以下                     | A<=B    | AがB以下を表示          |
+| AがB以上                     | A>=B    | AがB以上を表示          |
 
 ### Logical
 
-```nadesiko
- &&  ||  !
+| Japanese Style        | Operator | Example                  |
+|----------------------|---------|-------------------------|
+| 論理AND(A, B)         | A && B  | 論理AND(A, B)を表示      |
+| 論理OR(A, B)          | A \|\| B  | 論理OR(A, B)を表示       |
+| 論理NOT(V)            | !V      | 論理NOT(V)を表示         |
 
-# Japanese style
-論理AND(A, B) (AND)
-論理OR(A, B) (OR)
-論理NOT(V) (NOT)
-```
+Also: && || !
