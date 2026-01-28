@@ -8,8 +8,8 @@
 | AからBを引く                  | A-B     | 10 - 5を表示             |
 | A(に/と)Bを掛ける             | A*B     | 2 * 3を表示              |
 | AをBで割る                   | A/B     | 10 / 5を表示             |
-| A(に/と)Bを余り               | A%B     | 10 % 3を表示             |
-| A^Bでべき乗                   | A^B     | (2 ^ 3)を表示 #→8       |
+| 割った余る                    | A%B     | 10 % 3を表示             |
+| AのBのべき乗                   | A^B     | (2 ^ 3)を表示 #→8       |
 | A&Bで文字列を連結             | A&B     | (3 & 5)を表示 #→35      |
 
 **Important Change in v3.7.3**: The 足す command now performs numeric addition. For string concatenation, use 連結.
@@ -43,3 +43,7 @@
 | 論理NOT(V)            | !V      | 論理NOT(V)を表示         |
 
 Also: && || !
+
+## Useful links
+
+* ttps://nadesi.com/v3/doc/index.php?plugin_system%2F四則演算
