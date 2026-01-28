@@ -39,7 +39,7 @@
 ### Date/Time
 
 - [Date Time Processing](#date-time-processing) (28 items)
-- [Date Time Processing (Simple)](#date-time-processing-simple)](#%E6%97%A5%E6%99%82%E5%87%A6%E7%90%86%E7%B0%A1%E6%98%93) (31 items)
+- [Date Time Processing (Simple)](#date-time-processing-simple) (31 items)
 
 ### Collections
 
@@ -81,7 +81,7 @@
 
 ### Server/Network
 
-- [HTTP Server (Express)](#http-server-express)](#http%E3%82%B5%E3%83%BC%E3%83%90express) (16 items)
+- [HTTP Server (Express)](#http-server-express) (16 items)
 - [WebSocket](#websocket) (6 items)
 - [WebSocket Server](#websocket-server) (10 items)
 - [SMTP](#smtp) (2 items)
@@ -104,7 +104,7 @@
 
 ### Office
 
-- [Excel](#excel)](#%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%ABexcel) (18 items)
+- [Excel](#excel) (18 items)
 
 ### Graphics
 
@@ -127,7 +127,7 @@
 - [Asynchronous Processing Guarantee](#asynchronous-processing-guarantee) (6 items)
 - [NAKO Worker](#nako-worker) (14 items)
 - [Machine Learning](#machine-learning) (10 items)
-- [Morphological Analysis (MECAB)](#morphological-analysis-mecab)](#%E5%BD%A2%E6%85%8B%E7%B4%A0%E8%A7%A3%E6%9E%90mecab) (2 items)
+- [Morphological Analysis (MECAB)](#morphological-analysis-mecab) (2 items)
 - [Speech Synthesis](#speech-synthesis) (10 items)
 - [Music](#music) (5 items)
 
