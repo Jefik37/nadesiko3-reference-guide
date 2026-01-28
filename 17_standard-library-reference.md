@@ -10,88 +10,88 @@
 
 ### Core Language
 
-- [システム定数](#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%AE%9A%E6%95%B0) (46 items)
-- [標準出力](#%E6%A8%99%E6%BA%96%E5%87%BA%E5%8A%9B) (8 items)
-- [特殊命令](#%E7%89%B9%E6%AE%8A%E5%91%BD%E4%BB%A4) (11 items)
-- [敬語](#%E6%95%AC%E8%AA%9E) (6 items)
+- [System Constants](#system-constants) (46 items)
+- [Standard Output](#standard-output) (8 items)
+- [Special Commands](#special-commands) (11 items)
+- [Honorifics](#honorifics) (6 items)
 
 ### Mathematics
 
-- [四則演算](#%E5%9B%9B%E5%89%87%E6%BC%94%E7%AE%97) (27 items)
-- [算術関数](#%E7%AE%97%E8%A1%93%E9%96%A2%E6%95%B0) (17 items)
-- [三角関数](#%E4%B8%89%E8%A7%92%E9%96%A2%E6%95%B0) (12 items)
-- [数値切上切捨丸め](#%E6%95%B0%E5%80%A4%E5%88%87%E4%B8%8A%E5%88%87%E6%8D%A8%E4%B8%B8%E3%82%81) (9 items)
-- [論理演算](#%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97) (3 items)
-- [ビット演算](#%E3%83%93%E3%83%83%E3%83%88%E6%BC%94%E7%AE%97) (7 items)
+- [Four Arithmetic Operations](#four-arithmetic-operations) (27 items)
+- [Arithmetic Functions](#arithmetic-functions) (17 items)
+- [Trigonometric Functions](#trigonometric-functions) (12 items)
+- [Numeric Rounding](#numeric-rounding) (9 items)
+- [Logical Operations](#logical-operations) (3 items)
+- [Bit Operations](#bit-operations) (7 items)
 
 ### Type System
 
-- [型変換](#%E5%9E%8B%E5%A4%89%E6%8F%9B) (17 items)
+- [Type Conversion](#type-conversion) (17 items)
 
 ### Strings
 
-- [文字列処理](#%E6%96%87%E5%AD%97%E5%88%97%E5%87%A6%E7%90%86) (24 items)
-- [置換・トリム](#%E7%BD%AE%E6%8F%9B%E3%83%BB%E3%83%88%E3%83%AA%E3%83%A0) (7 items)
-- [文字変換](#%E6%96%87%E5%AD%97%E5%A4%89%E6%8F%9B) (16 items)
-- [文字種類](#%E6%96%87%E5%AD%97%E7%A8%AE%E9%A1%9E) (4 items)
-- [文字コード](#%E6%96%87%E5%AD%97%E3%82%B3%E3%83%BC%E3%83%89) (5 items)
+- [String Processing](#string-processing) (24 items)
+- [Replacement and Trim](#replacement-and-trim) (7 items)
+- [Character Conversion](#character-conversion) (16 items)
+- [Character Types](#character-types) (4 items)
+- [Character Code](#character-code) (5 items)
 
 ### Date/Time
 
-- [日時処理](#%E6%97%A5%E6%99%82%E5%87%A6%E7%90%86) (28 items)
-- [日時処理(簡易)](#%E6%97%A5%E6%99%82%E5%87%A6%E7%90%86%E7%B0%A1%E6%98%93) (31 items)
+- [Date Time Processing](#date-time-processing) (28 items)
+- [Date Time Processing (Simple)](#date-time-processing-simple)](#%E6%97%A5%E6%99%82%E5%87%A6%E7%90%86%E7%B0%A1%E6%98%93) (31 items)
 
 ### Collections
 
-- [配列操作](#%E9%85%8D%E5%88%97%E6%93%8D%E4%BD%9C) (34 items)
-- [二次元配列処理](#%E4%BA%8C%E6%AC%A1%E5%85%83%E9%85%8D%E5%88%97%E5%87%A6%E7%90%86) (16 items)
-- [辞書型変数の操作](#%E8%BE%9E%E6%9B%B8%E5%9E%8B%E5%A4%89%E6%95%B0%E3%81%AE%E6%93%8D%E4%BD%9C) (3 items)
+- [Array Operations](#array-operations) (34 items)
+- [Two Dimensional Array Processing](#two-dimensional-array-processing) (16 items)
+- [Dictionary Variable Operations](#dictionary-variable-operations) (3 items)
 
 ### Patterns
 
-- [正規表現](#%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE) (4 items)
-- [指定形式](#%E6%8C%87%E5%AE%9A%E5%BD%A2%E5%BC%8F) (3 items)
+- [Regular Expressions](#regular-expressions) (4 items)
+- [Specified Format](#specified-format) (3 items)
 
 ### I/O
 
-- [ファイル入出力](#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%85%A5%E5%87%BA%E5%8A%9B) (25 items)
-- [フォルダ取得](#%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E5%8F%96%E5%BE%97) (11 items)
-- [CSV操作](#csv%E6%93%8D%E4%BD%9C) (5 items)
+- [File Input Output](#file-input-output) (25 items)
+- [Folder Acquisition](#folder-acquisition) (11 items)
+- [CSV Operations](#csv-operations) (5 items)
 - [JSON](#json) (6 items)
 - [BASE64](#base64) (2 items)
 - [TOML](#toml) (2 items)
 
 ### Command Line
 
-- [コマンドラインと標準入出力](#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%A8%E6%A8%99%E6%BA%96%E5%85%A5%E5%87%BA%E5%8A%9B) (7 items)
+- [Command Line and Standard Input Output](#command-line-and-standard-input-output) (7 items)
 
 ### Web/Browser
 
-- [DOM操作](#dom%E6%93%8D%E4%BD%9C) (47 items)
-- [DOM操作とイベント](#dom%E6%93%8D%E4%BD%9C%E3%81%A8%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88) (35 items)
-- [DOM部品操作](#dom%E9%83%A8%E5%93%81%E6%93%8D%E4%BD%9C) (32 items)
-- [描画](#%E6%8F%8F%E7%94%BB) (33 items)
-- [HTTPとAJAX](#http%E3%81%A8ajax) (12 items)
-- [新AJAX](#%E6%96%B0ajax) (3 items)
+- [DOM Operations](#dom-operations) (47 items)
+- [DOM Operations and Events](#dom-operations-and-events) (35 items)
+- [DOM Component Operations](#dom-component-operations) (32 items)
+- [Drawing](#drawing) (33 items)
+- [HTTP and AJAX](#http-and-ajax) (12 items)
+- [New AJAX](#new-ajax) (3 items)
 - [Ajax](#ajax) (18 items)
-- [ローカルストレージ](#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8) (12 items)
+- [Local Storage](#local-storage) (12 items)
 - [Blob](#blob) (1 items)
-- [クリップボード操作](#%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E3%83%9C%E3%83%BC%E3%83%89%E6%93%8D%E4%BD%9C) (2 items)
-- [オーディオ](#%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA) (10 items)
+- [Clipboard Operations](#clipboard-operations) (2 items)
+- [Audio](#audio) (10 items)
 
 ### Server/Network
 
-- [HTTPサーバ(Express)](#http%E3%82%B5%E3%83%BC%E3%83%90express) (16 items)
+- [HTTP Server (Express)](#http-server-express)](#http%E3%82%B5%E3%83%BC%E3%83%90express) (16 items)
 - [WebSocket](#websocket) (6 items)
-- [WebSocketサーバ](#websocket%E3%82%B5%E3%83%BC%E3%83%90) (10 items)
+- [WebSocket Server](#websocket-server) (10 items)
 - [SMTP](#smtp) (2 items)
 - [LINE](#line) (2 items)
 
 ### Data
 
-- [ハッシュ関数](#%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E9%96%A2%E6%95%B0) (8 items)
-- [URLエンコードとパラメータ](#url%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A8%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF) (3 items)
-- [圧縮・解凍](#%E5%9C%A7%E7%B8%AE%E3%83%BB%E8%A7%A3%E5%87%8D) (6 items)
+- [Hash Functions](#hash-functions) (8 items)
+- [URL Encoding and Parameters](#url-encoding-and-parameters) (3 items)
+- [Compression and Decompression](#compression-and-decompression) (6 items)
 
 ### Database
 
@@ -104,38 +104,38 @@
 
 ### Office
 
-- [エクセル(Excel)](#%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%ABexcel) (18 items)
+- [Excel](#excel)](#%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%ABexcel) (18 items)
 
 ### Graphics
 
-- [タートルグラフィックス・カメ描画](#%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%AB%E3%83%A1%E6%8F%8F%E7%94%BB) (31 items)
-- [3Dタートルグラフィックス・基本機能](#3d%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E5%9F%BA%E6%9C%AC%E6%A9%9F%E8%83%BD) (16 items)
-- [3Dタートルグラフィックス・カメ操作](#3d%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%AB%E3%83%A1%E6%93%8D%E4%BD%9C) (34 items)
-- [グラフ描画_CHARTJS](#%E3%82%B0%E3%83%A9%E3%83%95%E6%8F%8F%E7%94%BB_chartjs) (13 items)
+- [Turtle Graphics](#turtle-graphics) (31 items)
+- [3D Turtle Graphics Basic Functions](#3d-turtle-graphics-basic-functions) (16 items)
+- [3D Turtle Graphics Turtle Operations](#3d-turtle-graphics-turtle-operations) (34 items)
+- [Graph Drawing CHARTJS](#graph-drawing-chartjs) (13 items)
 
 ### System
 
-- [環境変数](#%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0) (2 items)
-- [タイマー](#%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC) (8 items)
-- [Nodeプロセス](#node%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9) (5 items)
-- [デバッグ支援](#%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%94%AF%E6%8F%B4) (16 items)
-- [ダイアログ](#%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AD%E3%82%B0) (5 items)
-- [プラグイン管理](#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E7%AE%A1%E7%90%86) (5 items)
+- [Environment Variables](#environment-variables) (2 items)
+- [Timer](#timer) (8 items)
+- [Node Process](#node-process) (5 items)
+- [Debug Support](#debug-support) (16 items)
+- [Dialog](#dialog) (5 items)
+- [Plugin Management](#plugin-management) (5 items)
 
 ### Advanced
 
-- [非同期処理の保証](#%E9%9D%9E%E5%90%8C%E6%9C%9F%E5%87%A6%E7%90%86%E3%81%AE%E4%BF%9D%E8%A8%BC) (6 items)
-- [NAKOワーカー](#nako%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%BC) (14 items)
-- [機械学習](#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92) (10 items)
-- [形態素解析(MECAB)](#%E5%BD%A2%E6%85%8B%E7%B4%A0%E8%A7%A3%E6%9E%90mecab) (2 items)
-- [音声合成](#%E9%9F%B3%E5%A3%B0%E5%90%88%E6%88%90) (10 items)
-- [音楽](#%E9%9F%B3%E6%A5%BD) (5 items)
+- [Asynchronous Processing Guarantee](#asynchronous-processing-guarantee) (6 items)
+- [NAKO Worker](#nako-worker) (14 items)
+- [Machine Learning](#machine-learning) (10 items)
+- [Morphological Analysis (MECAB)](#morphological-analysis-mecab)](#%E5%BD%A2%E6%85%8B%E7%B4%A0%E8%A7%A3%E6%9E%90mecab) (2 items)
+- [Speech Synthesis](#speech-synthesis) (10 items)
+- [Music](#music) (5 items)
 
 ---
 
 ## Core Language
 
-### システム定数
+### System Constants
 
 **Constants:**
 
@@ -202,7 +202,7 @@
 #    引数bが真(true)ならば「真」を偽(false)ならば「偽」を返す
 ```
 
-### 標準出力
+### Standard Output
 
 **Constants:**
 
@@ -235,7 +235,7 @@
 #    Sをコンソール表示する(console.log)
 ```
 
-### 特殊命令
+### Special Commands
 
 **Functions:**
 
@@ -274,7 +274,7 @@
 #    終わる
 ```
 
-### 敬語
+### Honorifics
 
 **Functions:**
 
@@ -282,7 +282,7 @@
 # 🔸 ください
 #    敬語対応のため
 
-# 🔸 お願
+# 🔸 お願い
 #    ソースコードを読む人を気持ちよくする
 
 # 🔸 です
@@ -298,9 +298,12 @@
 #    (お遊び)敬語を何度使ったか返す
 ```
 
+Links:
+* https://nadesi.com/v3/doc/index.php?文法%2F敬語
+
 ## Mathematics
 
-### 四則演算
+### Four Arithmetic Operations
 
 **Functions:**
 
@@ -387,7 +390,7 @@
 #    数値を下限から上限の範囲内に収めた値を返す。
 ```
 
-### 算術関数
+### Arithmetic Functions
 
 **Functions:**
 
@@ -444,7 +447,10 @@
 #    Aの平方根を返す
 ```
 
-### 三角関数
+Links:
+* https://nadesi.com/v3/doc/index.php?plugin_system%2F四則演算
+
+### Trigonometric Functions
 
 **Functions:**
 
@@ -486,7 +492,7 @@
 #    度からラジアンに変換
 ```
 
-### 数値切上切捨丸め
+### Numeric Rounding
 
 **Functions:**
 
@@ -519,7 +525,7 @@
 #    数値を負の無限大方向へ切り下げて返す。
 ```
 
-### 論理演算
+### Logical Operations
 
 **Functions:**
 
@@ -534,7 +540,7 @@
 #    値Vが0や空ならばtrue、それ以外ならばfalseを返す(v1非互換)
 ```
 
-### ビット演算
+### Bit Operations
 
 **Functions:**
 
@@ -563,7 +569,7 @@
 
 ## Type System
 
-### 型変換
+### Type Conversion
 
 **Functions:**
 
@@ -622,7 +628,7 @@
 
 ## Strings
 
-### 文字列処理
+### String Processing
 
 **Functions:**
 
@@ -700,7 +706,7 @@
 #    文字列SのA文字目からB文字分を削除して返す
 ```
 
-### 置換・トリム
+### Replacement and Trim
 
 **Functions:**
 
@@ -727,7 +733,7 @@
 #    文字列Sの末尾にある空白を削除する
 ```
 
-### 文字変換
+### Character Conversion
 
 **Constants:**
 
@@ -778,7 +784,7 @@
 #    文字列Sの全角文字を半角に変換
 ```
 
-### 文字種類
+### Character Types
 
 **Functions:**
 
@@ -796,7 +802,7 @@
 #    文字列S全部が数字か判定
 ```
 
-### 文字コード
+### Character Code
 
 **Functions:**
 
@@ -819,7 +825,7 @@
 
 ## Date/Time
 
-### 日時処理
+### Date Time Processing
 
 **Constants:**
 
@@ -912,7 +918,7 @@
 #    日時SにAを加えて返す。Aは「(+｜-)1(年/ヶ月/日/時間/分/秒)」のように指定する (v1非互換)。
 ```
 
-### 日時処理(簡易)
+### Date Time Processing (Simple)
 
 **Constants:**
 
@@ -1016,7 +1022,7 @@
 
 ## Collections
 
-### 配列操作
+### Array Operations
 
 **Functions:**
 
@@ -1124,7 +1130,7 @@
 #    引数を1つ持ち真偽を返す関数Fを利用して、配列Aの要素をフィルタして、新しい配列として返す。
 ```
 
-### 二次元配列処理
+### Two Dimensional Array Processing
 
 **Functions:**
 
@@ -1178,7 +1184,7 @@
 #    二次元配列AでI列目(0起点)から正規表現パターンSにマッチする行をピックアップして返す。
 ```
 
-### 辞書型変数の操作
+### Dictionary Variable Operations
 
 **Functions:**
 
@@ -1195,7 +1201,7 @@
 
 ## Patterns
 
-### 正規表現
+### Regular Expressions
 
 **Constants:**
 
@@ -1216,7 +1222,7 @@
 #    文字列Sを正規表現パターンAで区切って配列で返す(パターンAは/pat/optで指定)
 ```
 
-### 指定形式
+### Specified Format
 
 **Functions:**
 
@@ -1233,7 +1239,7 @@
 
 ## I/O
 
-### ファイル入出力
+### File Input Output
 
 **Functions:**
 
@@ -1314,7 +1320,7 @@
 #    パスPATHのファイルサイズを調べて返す
 ```
 
-### フォルダ取得
+### Folder Acquisition
 
 **Constants:**
 
@@ -1356,7 +1362,7 @@
 #    指定のフォルダに作業用の一時フォルダを作成して取得して返す
 ```
 
-### CSV操作
+### CSV Operations
 
 **Functions:**
 
@@ -1427,7 +1433,7 @@
 
 ## Command Line
 
-### コマンドラインと標準入出力
+### Command Line and Standard Input Output
 
 **Constants:**
 
@@ -1455,7 +1461,7 @@
 
 ## Web/Browser
 
-### DOM操作
+### DOM Operations
 
 **Constants:**
 
@@ -1595,7 +1601,7 @@
 #    要素DOMにフォーカスする(カーソルを移動する)
 ```
 
-### DOM操作とイベント
+### DOM Operations and Events
 
 **Constants:**
 
@@ -1693,7 +1699,7 @@
 #    識別IDを指定して『画面更新時実行』を取り消す
 ```
 
-### DOM部品操作
+### DOM Component Operations
 
 **Constants:**
 
@@ -1790,7 +1796,7 @@
 #    Mermaid記法を使ってSRCのチャートを作成する(非同期関数)
 ```
 
-### 描画
+### Drawing
 
 **Constants:**
 
@@ -1896,7 +1902,7 @@
 #    描画内容をPNG形式のデータURLに変換してダウンロードする。(「クリックした時」などと組み合わせて使う)
 ```
 
-### HTTPとAJAX
+### HTTP and AJAX
 
 **Constants:**
 
@@ -1941,7 +1947,7 @@
 #    AJAXでURLにアクセスしバイナリ(blob)形式で結果を得る。送信時『AJAXオプション』の値を参照。(非同期関数)
 ```
 
-### 新AJAX
+### New AJAX
 
 **Functions:**
 
@@ -2019,7 +2025,7 @@
 #    非同期通信(AJAX)でURLにPARAMS(辞書型)をフォームとしてPOSTメソッドにてURLへ送信し応答を返す。(非同期関数)
 ```
 
-### ローカルストレージ
+### Local Storage
 
 **Constants:**
 
@@ -2073,7 +2079,7 @@
 #    DATA(配列型)をOPTIONS(辞書型)でBlobオブジェクトを作成する。
 ```
 
-### クリップボード操作
+### Clipboard Operations
 
 **Functions:**
 
@@ -2085,7 +2091,7 @@
 #    クリップボードを設定する
 ```
 
-### オーディオ
+### Audio
 
 **Functions:**
 
@@ -2123,7 +2129,7 @@
 
 ## Server/Network
 
-### HTTPサーバ(Express)
+### HTTP Server (Express)
 
 **Constants:**
 
@@ -2202,7 +2208,7 @@
 #    アクティブなWebSocketを閉じる
 ```
 
-### WebSocketサーバ
+### WebSocket Server
 
 **Constants:**
 
@@ -2267,7 +2273,7 @@
 
 ## Data
 
-### ハッシュ関数
+### Hash Functions
 
 **Functions:**
 
@@ -2297,7 +2303,7 @@
 #    暗号強度の強い乱数のバイト配列(Uint8Array)を指定個数返す
 ```
 
-### URLエンコードとパラメータ
+### URL Encoding and Parameters
 
 **Functions:**
 
@@ -2312,7 +2318,7 @@
 #    URLパラメータを解析してハッシュで返す
 ```
 
-### 圧縮・解凍
+### Compression and Decompression
 
 **Constants:**
 
@@ -2496,7 +2502,7 @@
 
 ## Office
 
-### エクセル(Excel)
+### Excel
 
 **Functions:**
 
@@ -2558,7 +2564,7 @@
 
 ## Graphics
 
-### タートルグラフィックス・カメ描画
+### Turtle Graphics
 
 **Constants:**
 
@@ -2654,7 +2660,7 @@
 #    操作対象のカメをクリックした時のイベントを設定する
 ```
 
-### 3Dタートルグラフィックス・基本機能
+### 3D Turtle Graphics Basic Functions
 
 **Functions:**
 
@@ -2702,7 +2708,7 @@
 #    Promiseの終了を待って結果を返す(非同期関数)
 ```
 
-### 3Dタートルグラフィックス・カメ操作
+### 3D Turtle Graphics Turtle Operations
 
 **Constants:**
 
@@ -2807,7 +2813,7 @@
 #    指定したカメを視点として使用する
 ```
 
-### グラフ描画_CHARTJS
+### Graph Drawing CHARTJS
 
 **Constants:**
 
@@ -2857,7 +2863,7 @@
 
 ## System
 
-### 環境変数
+### Environment Variables
 
 **Functions:**
 
@@ -2869,7 +2875,7 @@
 #    環境変数の一覧を返す
 ```
 
-### タイマー
+### Timer
 
 **Functions:**
 
@@ -2899,7 +2905,7 @@
 #    『秒毎』『秒後』や『秒タイマー開始』で開始したタイマーを全部停止する
 ```
 
-### Nodeプロセス
+### Node Process
 
 **Functions:**
 
@@ -2920,7 +2926,7 @@
 #    OSアーキテクチャを返す
 ```
 
-### デバッグ支援
+### Debug Support
 
 **Constants:**
 
@@ -2973,7 +2979,7 @@
 #    文法として定義されている予約語の一覧を取得する
 ```
 
-### ダイアログ
+### Dialog
 
 **Functions:**
 
@@ -2991,7 +2997,7 @@
 #    メッセージSと[OK][キャンセル]のダイアログを出して尋ねる。戻り値はtrueかfalseのどちらかになる。
 ```
 
-### プラグイン管理
+### Plugin Management
 
 **Constants:**
 
@@ -3015,7 +3021,7 @@
 
 ## Advanced
 
-### 非同期処理の保証
+### Asynchronous Processing Guarantee
 
 **Functions:**
 
@@ -3039,7 +3045,7 @@
 #    非同期処理をまとめる。(可変引数)
 ```
 
-### NAKOワーカー
+### NAKO Worker
 
 **Functions:**
 
@@ -3087,7 +3093,7 @@
 #    WORKERにユーザー定義関数またはユーザ定義のグローバル変数を転送する。(可変引数)
 ```
 
-### 機械学習
+### Machine Learning
 
 **Functions:**
 
@@ -3123,7 +3129,7 @@
 #    配列T(正解)とP(予測)の正解率を計算して返す
 ```
 
-### 形態素解析(MECAB)
+### Morphological Analysis (MECAB)
 
 **Functions:**
 
@@ -3135,7 +3141,7 @@
 #    Sについてヨミガナを取得する
 ```
 
-### 音声合成
+### Speech Synthesis
 
 **Constants:**
 
@@ -3170,7 +3176,7 @@
 #    音声合成APIの話者の設定をオブジェクト形式{速度:1.0,ピッチ:1.0,音量:1.0}のように設定する
 ```
 
-### 音楽
+### Music
 
 **Functions:**
 
